@@ -1,0 +1,33 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+li
+{
+	display: inline;
+	list-style: none;
+}
+li:hover
+{
+	color: red;
+	cursor: pointer;
+}
+#selectDivTwo:hover
+{
+	background-color: #F6F6F6;
+}
+#selectDivTwo:hover a
+{
+	color: red;
+	text-decoration: none;
+}
+td
+{
+	text-align: center;
+}
+
+td p
+{
+	text-align: center;
+}
